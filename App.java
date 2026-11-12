@@ -5,7 +5,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        int result = add(80, 90);
-        System.out.println("80 + 90 = " + result);
+        int result = add(80, 80);
+        System.out.println("80 + 80 = " + result);
     }
 }
