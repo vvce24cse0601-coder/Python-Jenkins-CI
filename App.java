@@ -5,7 +5,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        int result = sum(50, 70);
-        System.out.println("50 + 70 = " + result);
+        int result = sum(60, 70);
+        System.out.println("60 + 70 = " + result);
     }
 }
