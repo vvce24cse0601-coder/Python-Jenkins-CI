@@ -1,11 +1,11 @@
 public class App {
 
-    public static int sum(int a, int b) {
+    public static int add(int a, int b) {
         return a + b;
     }
 
     public static void main(String[] args) {
-        int result = sum(60, 70);
-        System.out.println("60 + 70 = " + result);
+        int result = add(80, 90);
+        System.out.println("80 + 90 = " + result);
     }
 }
